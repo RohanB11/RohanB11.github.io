@@ -8,3 +8,29 @@ index:
 - {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
 - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', <a href="http://google.com" style="text-decoration:none">yoursite</a>}
 - {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+
+
+-{name: ‘Rohan Balakrishnan* and Jonas Cremer*. Conditionally unutilized proteins and their profound effects on growth and adaptation across microbial species. 2023 Oct, Vol 75 102366. doi: 10.1016/j.mib.2023.102366 Current Opinion in Microbiology’, url: https://www.sciencedirect.com/science/article/abs/pii/S1369527423001030}
+*Corresponding authors
+ 
+-{name: ‘Guessous, G., Patsalo, V., Balakrishnan, R., Çağlar, T., Williamson, J. R., Hwa, T. Inheritance of secreted enzymes enables the sustained growth of dispersing marine bacteria on chitin particles. Nature Microbiology. 2023 Aug doi: 10.1038/s41564-023-01444-5’, url: https://www.nature.com/articles/s41564-023-01444-5}
+ 
+-{name: ‘Balakrishnan, R†., Mori, M†., Segota, I., Zhang, Z., Okano, H., Aebersold, R., Ludwig, C., Hwa, T. Principles of gene regulation quantitatively connect  DNA to RNA and proteins in bacteria. Science. 2022 Dec, 9 Vol 378, Issue 6624, doi: 10.1126/science.abk2066’, url: https://www.science.org/doi/full/10.1126/science.abk2066}
+†equal contribution
+ 
+-{name: ‘Wu, C†., Balakrishnan, R†., Braniff, N., Mori, M., Manzanarez, G., Zhang, Z., Hwa, T. Cellular perception of growth rate and the mechanistic origin of bacterial growth laws. Proc Natl Acad Sci U S A. 2022 May 17;119(20):e2201585119. doi: 10.1073/pnas.2201585119. Epub 2022 May 11.’, url: https://www.pnas.org/doi/full/10.1073/pnas.2201585119}
+†equal contribution
+ 
+-{name: ‘Balakrishnan, R*., de Silva, RT., Hwa, T., Cremer, J*. (2021). Suboptimal proteome allocation during changing environments constrains bacterial response and growth recovery. Mol Syst Biol. 2021 Dec;17(12):e10597. doi: 10.15252/msb.202110597.’, url: https://www.embopress.org/doi/full/10.15252/msb.202110597}
+ *corresponding authors.
+ 
+-{name: ‘Dai, X., Zhu, M., Warren, M., Balakrishnan, R., Okano, H., Williamson, J. R., Fredrick, K., Wang, YP., Hwa, T. (2018). Slowdown of Translational Elongation in Escherichia coli under Hyperosmotic Stress. mBio. 2018 Feb 13;9(1):e02375-17. doi: 10.1128/mBio.02375-17.’, url: https://journals.asm.org/doi/10.1128/mbio.02375-17}
+ 
+-{name: ‘Gibbs, M. R., Moon, K. M., Chen, M., Balakrishnan, R., Foster, L. J., & Fredrick, K. (2017). Conserved GTPase LepA (Elongation Factor 4) functions in biogenesis of the 30S subunit of the 70S ribosome. Proc Natl Acad Sci U S A. 2017 Jan 31;114(5):980-985. doi: 10.1073/pnas.1613665114. Epub 2017 Jan 17.’, url: https://www.pnas.org/doi/10.1073/pnas.1613665114}
+ 
+-{name: ‘Dai, X., Zhu, M., Warren, M., Balakrishnan, R., Patsalo, V., Okano, H., Williamson, J. R., Fredrick, K., Wang, YP., Hwa, T. (2016). “Reduction of translating ribosomes enables Escherichia coli to maintain elongation rates during slow growth.” Nat Microbiol. 2016 Dec 12;2:16231. doi: 10.1038/nmicrobiol.2016.231.’, url: https://www.nature.com/articles/nmicrobiol2016231}
+ 
+-{name: ‘Fleming, I. M., Paris, Z., Gaston, K. W., Balakrishnan, R., Fredrick, K., Rubio, M. A., & Alfonzo, J. D. (2016). A tRNA methyltransferase paralog is important for ribosome stability and cell division in Trypanosoma brucei. Sci rep. 2016 Feb 18;6:21438. doi: 10.1038/srep21438.’, url: https://www.nature.com/articles/srep21438}
+ 
+-{name: ‘Balakrishnan, R.†, Oman, K†., Shoji, S., Bundschuh, R., and Fredrick, K. (2014) “The conserved GTPase LepA contributes mainly to translation initiation in Escherichia coli.” Nucleic Acids Res. 2014 Dec 1;42(21):13370-83. doi: 10.1093/nar/gku1098. Epub 2014 Nov 6.’, url: https://academic.oup.com/nar/article/42/21/13370/2902991?login=false}
+†equal contribution
