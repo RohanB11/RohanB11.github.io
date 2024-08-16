@@ -11,7 +11,7 @@ people:
 - {name: 'Graduate Student', title: '', department: '', institution: '', phone: '', email: '', office: '', image: 'assets/img/scrappy_b.jpeg', url: 'graduate-student'}
 
 courses:
-- {name: 'TBA', url: 'xyz'}
+- {name: 'TBA'}
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
