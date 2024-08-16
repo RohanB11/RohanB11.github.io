@@ -3,7 +3,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
-- {name: 'contact us', url: '/contact'}
+- {name: 'contact', url: '/contact'}
 
 people:
 - {name: 'Rohan Balakrishnan', title: 'Assistant Professor', department: 'Biological Sciences', institution: 'University of North Texas', phone: '', email: 'rohan.balakrishnan@unt.edu', office: 'LIFE A359/LIFE A229', image: 'assets/img/Rohan Balakrishnan Photo.jpg', url: 'https://scholar.google.com/citations?user=-UC9vYoAAAAJ&hl=en'}
