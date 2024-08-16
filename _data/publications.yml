@@ -1,7 +1,7 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: ''}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- {name: 'Balakrishnan, R†., Mori, M†., Segota, I., Zhang, Z., Okano, H., Aebersold, R., Ludwig, C., Hwa, T. Principles of gene regulation quantitatively connect  DNA to RNA and proteins in bacteria. Science. 2022 Dec', url: 'https://www.science.org/doi/full/10.1126/science.abk2066'}
+- {name: 'Wu, C†., Balakrishnan, R†., Braniff, N., Mori, M., Manzanarez, G., Zhang, Z., Hwa, T. Cellular perception of growth rate and the mechanistic origin of bacterial growth laws. Proc Natl Acad Sci U S A. 2022 May', url: 'https://www.pnas.org/doi/full/10.1073/pnas.2201585119'}
+- {name: 'Balakrishnan, R*., de Silva, RT., Hwa, T., Cremer, J*. Suboptimal proteome allocation during changing environments constrains bacterial response and growth recovery. Mol Syst Biol. 2021 Dec', url: 'https://www.embopress.org/doi/full/10.15252/msb.202110597'}
 
 index:
 - {name: 'Rohan Balakrishnan* and Jonas Cremer*. Conditionally unutilized proteins and their profound effects on growth and adaptation across microbial species. Current Opinion in Microbiology. 2023 Oct', url: 'https://www.sciencedirect.com/science/article/abs/pii/S1369527423001030'}
