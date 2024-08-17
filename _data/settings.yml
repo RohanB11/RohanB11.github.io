@@ -13,11 +13,6 @@ people:
 courses:
 - {name: 'TBA', url: ''}
 
-social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
 - {name: 'Dr. Rohan Balakrishnan', title: 'Assistant Professor', department: 'Biological Sciences', institution: 'University of North Texas', institution_address: '', phone: '', email: 'rohan.balakrishnan@unt.edu', office: 'LIFE A359/LIFE A229', image: 'assets/img/UNTLifeScience.jpg'}
