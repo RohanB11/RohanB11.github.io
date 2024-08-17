@@ -6,8 +6,6 @@
         <p><a style="text-decoration:none" href="{{ item.url }}"target="_blank">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
-        <h4 class="fw-bold border-bottom pb-3 mb-5">All Publications</h4>
-        {% if page.title == "Publications" %}
       {% for item in site.data.publications.index %}
         <p><a style="text-decoration:none" href="{{ item.url }}"target="_blank">{{ item.name }}</a></p>
       {% endfor %}
