@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Sample Post"
+title: "Lab opens"
 ---
-Lab opens
+Lab opens in Fall 2024
