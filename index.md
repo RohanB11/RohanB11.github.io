@@ -7,7 +7,5 @@ We study how the abundances and activities of cellular components like DNA, mRNA
 
 <b>Themes we are currently interested in:</b> <br>
 <ul>
-  <li>coordination between transcription and translation fluxes <li>
-  <li>protein homeostasis during starvation <li>
-  <li>resource allocation strategies during cellular response  <li>
-  <li>kinetics of ppGpp signaling <li>
+  <li>coordination between transcription and translation fluxes<li> <li>protein homeostasis during starvation<li> <li>resource allocation strategies during cellular response<li>
+<li>kinetics of ppGpp signaling<li>
