@@ -11,4 +11,4 @@ b. protein homeostasis in starvation<br>
 c. resource allocation strategies during cellular response<br>
 d. kinetics of ppGpp signaling
 
-Investigations in our lab will enable students to hone a quantitative, systems-wide outlook to biology, and gain proficiency in biochemical, multi-'omics, and molecular-genetic techniques.
+Research in our lab will enable students to hone a quantitative, systems-wide outlook towards biology, and gain proficiency in biochemical, multi-'omic, and molecular-genetic techniques.
