@@ -10,5 +10,3 @@ a. coordination between transcription-translation fluxes<br>
 b. protein homeostasis in starvation<br> 
 c. resource allocation strategies during cellular response<br>
 d. kinetics of ppGpp signaling
-
-Research in our lab will enable students to hone a quantitative, systems-wide outlook towards biology, and gain proficiency in biochemical, multi-'omic, and molecular-genetic techniques.
